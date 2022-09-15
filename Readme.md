@@ -1,9 +1,9 @@
 # Daily Action Automation
 
 ## TODOs
- - [ ] Remind me to update tasks locally
- - [ ] Remind me to update the tasks to Natasha
- - [ ] Remind me to check the Azure for latest bug report
- - [ ] Remind me to update the update report of the completed tasks on local report
- - [ ] Remind me to update the update report of the completed tasks on basecamp
+ - [ ] Update Tasks to Daily CheckIn
+ - [ ] Update the tasks to Natasha
+ - [ ] Check the Azure for latest bug report
+ - [ ] Update the updated report of the completed tasks on local report
+ - [ ] Update the updated report of the completed tasks on basecamp
  - [ ] Create a flow in curl to check the updated API responses
